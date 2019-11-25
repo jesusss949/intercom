@@ -2,6 +2,7 @@ from intercom_bitplanes import Intercom_bitplanes
 
 if __debug__:
     import sys
+    
 # Exploiting binaural redundancy.
 
 class Intercom_binaural(Intercom_bitplanes):
